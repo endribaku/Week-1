@@ -1,0 +1,14 @@
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/bin/Debug/net9.0/ToDoList
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/bin/Debug/net9.0/ToDoList.deps.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/bin/Debug/net9.0/ToDoList.runtimeconfig.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/bin/Debug/net9.0/ToDoList.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/bin/Debug/net9.0/ToDoList.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ToDoList.AssemblyInfoInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ToDoList.AssemblyInfo.cs
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ToDoList.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/refint/ToDoList.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ToDoList.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ToDoList.genruntimeconfig.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/ToDoList/obj/Debug/net9.0/ref/ToDoList.dll

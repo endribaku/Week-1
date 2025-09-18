@@ -1,0 +1,14 @@
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/bin/Debug/net9.0/CalcApp
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/bin/Debug/net9.0/CalcApp.deps.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/bin/Debug/net9.0/CalcApp.runtimeconfig.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/bin/Debug/net9.0/CalcApp.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/bin/Debug/net9.0/CalcApp.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.AssemblyInfoInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.AssemblyInfo.cs
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.csproj.CoreCompileInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/refint/CalcApp.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.genruntimeconfig.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/ref/CalcApp.dll

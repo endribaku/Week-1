@@ -1,0 +1,14 @@
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/bin/Debug/net9.0/SimpleATM
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/bin/Debug/net9.0/SimpleATM.deps.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/bin/Debug/net9.0/SimpleATM.runtimeconfig.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/bin/Debug/net9.0/SimpleATM.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/bin/Debug/net9.0/SimpleATM.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/SimpleATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/SimpleATM.AssemblyInfoInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/SimpleATM.AssemblyInfo.cs
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/SimpleATM.csproj.CoreCompileInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/SimpleATM.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/refint/SimpleATM.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/SimpleATM.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/SimpleATM.genruntimeconfig.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/SimpleATM/obj/Debug/net9.0/ref/SimpleATM.dll

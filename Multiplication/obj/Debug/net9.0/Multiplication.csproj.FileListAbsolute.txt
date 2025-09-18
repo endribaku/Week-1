@@ -1,0 +1,14 @@
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/Multiplication.AssemblyInfoInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/Multiplication.AssemblyInfo.cs
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/Multiplication.csproj.CoreCompileInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/bin/Debug/net9.0/Multiplication
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/bin/Debug/net9.0/Multiplication.deps.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/bin/Debug/net9.0/Multiplication.runtimeconfig.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/bin/Debug/net9.0/Multiplication.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/bin/Debug/net9.0/Multiplication.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/Multiplication.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/refint/Multiplication.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/Multiplication.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/Multiplication.genruntimeconfig.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/Multiplication/obj/Debug/net9.0/ref/Multiplication.dll

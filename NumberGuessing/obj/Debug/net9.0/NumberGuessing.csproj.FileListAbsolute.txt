@@ -1,0 +1,14 @@
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/bin/Debug/net9.0/NumberGuessing
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/bin/Debug/net9.0/NumberGuessing.deps.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/bin/Debug/net9.0/NumberGuessing.runtimeconfig.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/bin/Debug/net9.0/NumberGuessing.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/bin/Debug/net9.0/NumberGuessing.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/NumberGuessing.AssemblyInfoInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/NumberGuessing.AssemblyInfo.cs
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/NumberGuessing.csproj.CoreCompileInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/NumberGuessing.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/refint/NumberGuessing.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/NumberGuessing.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/NumberGuessing.genruntimeconfig.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/NumberGuessing/obj/Debug/net9.0/ref/NumberGuessing.dll

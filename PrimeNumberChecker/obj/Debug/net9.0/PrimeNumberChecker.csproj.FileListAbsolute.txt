@@ -1,0 +1,14 @@
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.AssemblyInfoInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.AssemblyInfo.cs
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.csproj.CoreCompileInputs.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.deps.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.runtimeconfig.json
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/refint/PrimeNumberChecker.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.pdb
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.genruntimeconfig.cache
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/ref/PrimeNumberChecker.dll
