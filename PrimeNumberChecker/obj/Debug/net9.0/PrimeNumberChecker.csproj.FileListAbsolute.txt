@@ -12,3 +12,4 @@
 /Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.pdb
 /Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.genruntimeconfig.cache
 /Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/ref/PrimeNumberChecker.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.sourcelink.json

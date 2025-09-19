@@ -12,3 +12,4 @@
 /Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.pdb
 /Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.genruntimeconfig.cache
 /Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/ref/CalcApp.dll
+/Users/endribaku/Documents/Internship/dev.al/Week 1/CalcApp/obj/Debug/net9.0/CalcApp.sourcelink.json

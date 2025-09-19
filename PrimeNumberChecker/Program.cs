@@ -14,8 +14,7 @@ class Program
                 {
                     Console.WriteLine("Type a number to see if it is prime or not:");
                     int number = Convert.ToInt32(Console.ReadLine());
-                    if (CheckNumberIfPrime(number))
-                    {
+                    if (CheckNumberIfPrime(number)) {
                         Console.WriteLine("Number is Prime");
                     }
                     else
